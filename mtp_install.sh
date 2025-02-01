@@ -1,11 +1,7 @@
 #!/bin/bash
 # Automatic interactive installer for mtproto proxy https://github.com/seriyps/mtproto_proxy
 # Supported OS:
-# - Ubuntu 18.xx
-# - Ubuntu 19.xx
-# - Ubuntu 20.xx
-# - Ubuntu 21.xx
-# - Ubuntu 22.xx
+# - Ubuntu 18.xx TO Ubuntu 30.xx
 # - Debian 11 bullseye
 # - Debian 10 buster
 # - Debian 9 stretch
